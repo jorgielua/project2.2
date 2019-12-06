@@ -1,0 +1,101 @@
+body {
+  background-color: #89cff0 ;
+}
+
+.grid{
+	grid-template-columns: 400px 400px 400px;
+	grid-template-rows: 300px 300px 300px;
+	display: grid;
+	grid-gap: 150px;
+Grid-row-start:2;
+ grid-row-end:2 ;
+   
+}
+h1{
+	 border: black solid 5px;
+	 font-size:50px ;
+	 font-family:Impact, fantasy ;
+	 color: white;
+	 text-align:center;
+}
+
+
+
+.item1{
+	border: white solid 6px;
+	front-size: 5px;
+  
+}
+
+.item2{
+	border:White solid 6px;
+ 
+}
+.item3{
+	border: White solid 6px;
+  
+}
+.item4{
+	border: White solid 6px;
+	grid-column-start: 3;
+  grid-column-end:2;
+  
+}
+.item5{
+	border: White solid 6px;
+	grid-column-start: 3;
+  grid-column-end:2;
+  
+}
+.item6{
+	border: White solid 6px;
+	grid-column-start: 3;
+  grid-column-end:2;
+  
+}
+.item6{
+	border: White solid 6px;
+	grid-column-start: 3;
+  grid-column-end:2;
+  
+}
+.item7{
+	border: White solid 6px;
+	grid-column-start: 3;
+  grid-column-end:2;
+  
+}
+
+div {
+  width: 150px;
+  padding: 80px;
+  margin: 50px;
+}
+
+.center {
+width: 300;
+height: 60;
+text-align:center;
+margin: 10px;
+border: 3px solid black;
+
+}
+.class{
+width: 350px;
+height: px;
+margin: 10px;
+border: 3px solid black;
+float: left;
+}
+img{
+	width: 350px;
+	height:200px;
+}
+h5{
+	color:blue;
+}
+
+h2.whiteletters { 
+	 color: white;
+
+}
